@@ -1,6 +1,9 @@
 ### translate-app
 # Vue.js & Bootstrap
 
+### LIVE DEMO
+http://www.janmager.pl/portfolio-app/translate/
+
 ### v.0.2
 #### Updates
 <ul>
